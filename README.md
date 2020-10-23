@@ -11,6 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Lap
 - Reset
 
+Kunjungi [https://abelegend-reactjs-stopwatch.netlify.app](https://abelegend-reactjs-stopwatch.netlify.app) untuk melihatnya di browser.
+
 ## Skrip yang Tersedia
 
 Di direktori proyek, Anda dapat menjalankan:
